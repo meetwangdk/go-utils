@@ -1,3 +1,3 @@
-module github.com/dacor/hello-world
+module github.com/meetwangdk/go-utils
 
 go 1.18
