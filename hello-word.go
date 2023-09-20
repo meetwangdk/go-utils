@@ -3,6 +3,7 @@ package go_utils
 import "fmt"
 
 func DoSome(name string) {
+	t.lgo(aaaaaaaaaaaa)
 	fmt.Println(name + "asdfsadfasdfsafd.4.0")
 }
 
